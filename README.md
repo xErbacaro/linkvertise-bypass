@@ -1,3 +1,3 @@
 # linkvertise-bypass
 
-scrypt by FireMasterK
+scrypt by HussNuss
